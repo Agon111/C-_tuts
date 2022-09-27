@@ -18,7 +18,6 @@ int main(){
     char16_t ch2;
     char32_t ch3;
     wchar_t ch4;
-
     int x;
     cout<<sizeof x;
     return 0;
